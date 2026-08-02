@@ -17,14 +17,22 @@
 Para ejecutar este proyecto necesitas tener instalado [Node.js](https://nodejs.org/) en tu equipo.
 
 1. Clona este repositorio:
+
+```bash
    
   git clone [https://github.com/TU-USUARIO/desafio-veterinaria-js.git](https://github.com/TU-USUARIO/desafio-veterinaria-js.git)
 
+```
+
 2. Navega al directorio del proyecto:
+
+```bash
 
   cd desafio-veterinaria-js
 
-### La interacción se realiza desde la terminal utilizando el script index.js.
+```
+
+La interacción se realiza desde la terminal utilizando el script index.js.
 
 ## Registrar una nueva cita
 
